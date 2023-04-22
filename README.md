@@ -52,13 +52,6 @@ This hierarchy of clusters is represented in the form of the dendrogram.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of the program files is as follows:</p>
-
-
-<p><b>1) Unsupervised_ml_project.ipynb</b></p>
-<p> This file must be executed, to define all the functions and variables required for regression operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
-
 
 
 
