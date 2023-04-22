@@ -12,23 +12,7 @@
 
 <p>Netflix Recommender recommends Netflix movies and TV shows based on a user's favorite movie or TV show. It uses a  a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions..</p>
 
-<h2> :floppy_disk: Project Files Description</h2>
 
-
-<p>This Project includes 2 executable files, 1 text files ,1 h5 file as well as 1 directories as follows:</p>
-<h4>Executable Files:</h4>
-<ul>
-  
-  <li><b>NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb</b> - Includes all functions required for clustering operations  and generates the model.h5 file after execution.</li>
-  <li><b>final_notebook_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb</b> -  after execution, evaluation is done on the unseen data as in no_of_clusters.txt.</li>
-</ul>
-
-<h4>Output Files:</h4>
-<ul>
-  <li><b>model.h5</b> - Model contains information about the clusters of the train set.</li>
-  <li><b>result.txt</b> - Contains information about the elvatuation of the clusters using silluhoute score .</li>
-  
-</ul>
 
 <h4>Source Directories:</h4>
 <ul>
@@ -72,7 +56,7 @@ This hierarchy of clusters is represented in the form of the dendrogram.
 <p>The order of execution of the program files is as follows:</p>
 
 
-<p><b>1) final_notebook_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb</b></p>
+<p><b>1) Unsupervised_ml_project.ipynb</b></p>
 <p> This file must be executed, to define all the functions and variables required for regression operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
@@ -84,16 +68,6 @@ This hierarchy of clusters is represented in the form of the dendrogram.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
-
-< Apoorva KR > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-r-gowda/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apoorvaKR12695)
 
 
 
